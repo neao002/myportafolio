@@ -1,0 +1,267 @@
+
+
+:root {
+
+    font-size: 62.5%
+}
+
+* {
+    padding: 0;
+    margin: 0;
+
+}
+body {
+
+    font-family: 'Nanum Gothic', sans-serif;
+
+}
+
+/* ----------------->NAVIGATION <-----------------*/
+
+nav {
+
+    background-color: lightgray;
+    text-align: center;
+    height: 60px;
+    
+}   
+
+nav a {
+
+    font-size: 2rem;
+    text-decoration: none;
+    line-height: 60px;
+    color: black;
+    font-family: font-family: 'Mukta', sans-serif;
+    font-weight: 700;
+    padding: .5rem 1rem;
+    margin: 0 1rem;
+}
+
+nav a:hover {
+
+
+    color: rgb(248, 242, 242);
+}
+
+
+/* ------------>Home main Page <----------------- */
+
+body {
+
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+
+ 
+/* img {
+
+    padding: 20px 10px 50px 100px;
+    height: 350px;
+    width: 250px;    
+    
+} */
+
+main div {
+
+    margin: 30px 0;
+    
+}
+
+main div h1 {
+
+    font-size: 3rem;
+    text-shadow: 1px 1px 5px coral;
+    
+}
+
+main div p {
+    font-size: 1.5rem;
+    padding: 40px 0;
+  }
+  
+  main div.home-content a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding: 10px 50px;
+    background-color: #0bc9eb;
+    border-radius: 20px;
+    color: white;
+  }
+  
+  main div.home-content a:hover {
+    color: #0bc9eb;
+    background-color: white;
+    border: 1px solid #0bc9eb;
+  }
+
+
+  /* --------------->ABOUT ME! <-------------------- */
+
+  .imgabout {
+
+    padding: 20px 10px 50px 100px;
+    height: 350px;
+    width: -250px;
+    
+    
+     
+  }
+
+  div.aboutme1 {
+
+    
+    border: solid 1px black; 
+    width: 30%;
+    height: 200px;
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: -80px;
+    margin-right: 30px;
+
+  }
+
+ 
+
+  .aboutme2 {
+    border: solid 1px black; 
+    width: 30%;
+    height: 200px;
+    display: inline-block;
+    margin-right: 30px;
+   
+    padding-top: 20px;
+    padding-bottom: -80px;
+
+  }
+
+  .aboutme3 {
+
+    border: solid 1px black; 
+    width: 30%;
+    height: 200px;
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: -80px;
+   
+
+
+  }
+
+  .fa-angellist {
+
+    font-size: 6rem;
+    color: blue;
+    background-color: burlywood;
+  }
+
+ 
+
+  h1 {
+
+    color:rgb(102, 102, 243);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 1px 1px 5px coral;
+    font-size: 4em;
+  } 
+
+
+  /* ------------->SERVICES <-----------  */
+
+.services1 img {
+
+  padding: 50px 10px 50px 10px;
+  height: 350px;
+  width: 850px; 
+  
+
+}
+
+.titulo {
+
+  color:rgb(23, 23, 240);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-shadow: 8px 8px 8px rgb(147, 114, 240);
+  font-size: 3em;
+}
+
+.services3 img {
+
+  float: left;
+  width: 150px;
+  height: 100px;
+  margin-top: -130px;
+  margin-right: -200px;
+}
+
+.p1 {
+
+  text-align: justify;
+  
+}
+
+.p1 span {
+
+  color:rgb(255, 187, 0);
+}
+
+.p2 {
+
+  text-align: justify;
+  border-bottom: 10px;
+}
+
+.p2 span {
+
+  color:rgb(255, 187, 0);
+}
+
+.services4 img {
+
+  float: right;
+  width: 200px;
+  height: 150px;
+  margin: -50px;
+  padding: 40px;
+  
+
+}
+
+.p3 {
+
+  
+  padding: 90px 10px 30px;
+  text-align: justify;
+
+}
+
+.services5 img {
+
+  float: left;
+  width: 150px;
+  height: 100px;
+  margin-top: -80px;
+  margin-right: -200px;
+
+}
+
+.p3 span {
+
+  color:rgb(255, 187, 0);
+}
+
+
+/* -------------> PORTAFOLIO <------------ */
+
+.mainportafolio img {
+
+  padding: 50px 10px 50px 10px;
+  height: 350px;
+  width: 850px;
+
+
+}
